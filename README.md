@@ -19,7 +19,6 @@ To write a program to perform selection sort and insertion sort using python pro
 5.	Repeat the steps 2 to 4 for sorting all the elements in the array.
 ## Program:
 i)	#Selection Sort
-
 #DEVELOPED BY: NAKUL R
 #REGISTRATION NUMBER :212223240102
 num=eval(input())
@@ -30,9 +29,8 @@ for i in range(len(num)):
             low=j
     num[i],num[low]=num[low],num[i]
 print(num)
-```
+
 ii)	#Insertion Sort
-```
 #DEVELOPED BY:NAKUL R
 #REGISTER NUMBER : 212223240102
 num=eval(input())
@@ -44,16 +42,12 @@ for i in range(1,len(num)):
         j=j-1
     num[j+1]=insert
 print(num)
-
-```
-
 ## Output:
-![Screenshot 2024-04-23 224852](https://github.com/Nakul1411/Sorting-Algorithms/assets/138849780/9c4a2dcf-1be1-4415-a249-7d118e36d840)
+selection sort:
+![Screenshot 2024-04-23 224852](https://github.com/Nakul1411/Sorting-Algorithms/assets/138849780/02f58e4a-39f4-43e4-ab93-4b02494fe8d4)
 
-
-
-![Screenshot 2024-04-23 225255](https://github.com/Nakul1411/Sorting-Algorithms/assets/138849780/050df005-33a0-41b9-b625-f2573dd36c70)
-
+insertion sort :
+![Screenshot 2024-04-23 225255](https://github.com/Nakul1411/Sorting-Algorithms/assets/138849780/06e8b2d7-c4e6-449b-a7d7-ce77fa676580)
 
 
 
