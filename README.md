@@ -50,6 +50,8 @@ print(num)
 ## Output:
 ![Screenshot 2024-04-23 224852](https://github.com/Nakul1411/Sorting-Algorithms/assets/138849780/9c4a2dcf-1be1-4415-a249-7d118e36d840)
 
+
+
 ![Screenshot 2024-04-23 225255](https://github.com/Nakul1411/Sorting-Algorithms/assets/138849780/050df005-33a0-41b9-b625-f2573dd36c70)
 
 
